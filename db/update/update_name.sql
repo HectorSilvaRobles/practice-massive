@@ -1,0 +1,1 @@
+UPDATE products SET img_url = $3 WHERE name = $1
